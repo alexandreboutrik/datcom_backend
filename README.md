@@ -2,7 +2,7 @@
 
 <img align="right" width="128px" src=".media/coffee.png" />
 
-![Version Badge](https://img.shields.io/badge/version-v1.0.1--beta-blue)
+![Version Badge](https://img.shields.io/badge/version-v1.0.2--beta-blue)
 
 Esse repositório contém uma implementação de uma REST API para o backend do site do DATCOM. Foi escrito em [Go](https://go.dev/) utilizando o framework [Gin](https://github.com/gin-gonic/gin/).
 
